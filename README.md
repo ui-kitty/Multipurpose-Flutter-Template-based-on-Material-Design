@@ -42,7 +42,6 @@ Material Components are interactive building blocks for creating a user interfac
 
 ### Links to project
 
-* [Github Repo](https://github.com/ui-kitty/Multipurpose-Flutter-Template-based-on-Material-Design)
 * [Codepen Article](https://codepen.io/codemarket/post/multipurpose-flutter-template-based-on-material-design)
 * [Medium Article](https://medium.com/@iggyfonwonder/magnificient-flutter-flutter-material-design-ui-and-components-2239d9adbc11)
 * [Teletype Article](https://teletype.in/@alexignatov/oo-1YMvcs)
